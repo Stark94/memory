@@ -17,4 +17,8 @@ public class MainActivity extends AppCompatActivity {
     public void newMeth(){
         return;
     }
+
+    public void secondMeth(){
+
+    }
 }
