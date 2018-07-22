@@ -21,4 +21,8 @@ public class MainActivity extends AppCompatActivity {
     public void secondMeth(){
 
     }
+
+    public void ThirdMeth(){
+
+    }
 }
