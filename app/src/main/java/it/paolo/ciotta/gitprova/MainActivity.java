@@ -24,6 +24,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void ThirdMeth(){
 
-        int i=3;
+        int i=4;
     }
 }
